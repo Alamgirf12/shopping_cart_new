@@ -183,7 +183,10 @@ svg {
         width: 50%;
         max-width: 200px;
     }
-
+    &:hover {
+       width: 60%;
+       padding:40px;
+    }
     .rating {
         color: sandybrown;
         font-size: 0.8rem;
